@@ -1,4 +1,4 @@
-# Stock Price Explorer — Streamlit App
+# Stock Price Web App
 
 This is a simple interactive **Streamlit web app** that allows users to input a stock symbol and a date range to view historical stock prices and basic company information.
 
